@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<words>
+  <word>
+    <term>merhaba</term>
+    <hint>selam, tanışma sözcüğü</hint>
+  </word>
+  <word>
+    <term>arkadaş</term>
+    <hint>yakın dost, birlikte vakit geçirilen kişi</hint>
+  </word>
+  <word>
+    <term>kitap</term>
+    <hint>sayfaları bir araya getirilmiş bilgi kaynağı</hint>
+  </word>
+  <word>
+    <term>sandalye</term>
+    <hint>oturma aracı, tek kişilik mobilya</hint>
+  </word>
+  <word>
+    <term>bilgisayar</term>
+    <hint>veri işleme ve depolama cihazı</hint>
+  </word>
+  <word>
+    <term>çanta</term>
+    <hint>kişisel eşyaların taşınması için kullanılan çanta</hint>
+  </word>
+  <word>
+    <term>araba</term>
+    <hint>motorlu taşıt</hint>
+  </word>
+  <word>
+    <term>televizyon</term>
+    <hint>evlerde yaygın olarak kullanılan eğlence cihazı</hint>
+  </word>
+  <word>
+    <term>şeker</term>
+    <hint>tatlı, genellikle küçük kristalize formda</hint>
+  </word>
+  <word>
+    <term>su</term>
+    <hint>temel yaşam kaynağı, renksiz ve kokusuz sıvı</hint>
+  </word>
+  <word>
+    <term>elma</term>
+    <hint>kırmızı, yeşil veya sarı renkli, yuvarlak meyve</hint>
+  </word>
+  <word>
+    <term>armut</term>
+    <hint>sulu ve tatlı meyve</hint>
+  </word>
+  <word>
+    <term>muz</term>
+    <hint>uzun ve oval şekilli, tatlı meyve</hint>
+  </word>
+  <word>
+    <term>portakal</term>
+    <hint>yuvarlak, turuncu renkli meyve</hint>
+  </word>
+  <word>
+    <term>limon</term>
+    <hint>küçük ve ekşi meyve</hint>
+  </word>
+  <word>
+    <term>havuç</term>
+    <hint>tatlı ve turuncu bir sebze</hint>
+  </word>
+  <word>
+    <term>domates</term>
+    <hint>kırmızı, yuvarlak meyve veya sebze</hint>
+  </word>
+  <word>
+    <term>salatalık</term>
+    <hint>uzun ve yeşil, su içeriği yüksek sebze</hint>
+  </word>
+  <word>
+    <term>patates</term>
+    <hint>genellikle yuvarlak, kahverengi kabuklu bir sebze</hint>
+  </word>
+  <word>
+    <term>soğan</term>
+    <hint>birçok yemeğe lezzet veren, gözyaşı yaratan sebze</hint>
+  </word>
+  <word>
+    <term>sarımsak</term>
+    <hint>yemeklerde lezzet veren bir baharat</hint>
+  </word>
+  <word>
+    <term>tavuk</term>
+    <hint>sık tüketilen beyaz et</hint>
+  </word>
+  <word>
+    <term>kırmızı et</term>
+    <hint>sığır, koyun veya domuzdan elde edilen et</hint>
+  </word>
+  <word>
+    <term>balık</term>
+    <hint>suda yaşayan hayvan, taze veya tuzlu yenir</hint>
+  </word>
+  <word>
+    <term>peynir</term>
+    <hint>sütün bazı işlemlerden geçirilmesiyle elde edilen sert veya yumuşak yiyecek</hint>
+  </word>
+  <word>
+    <term>süt</term>
+    <hint>süt ineğinden elde edilen beyaz, sıvı bir yiyecek</hint>
+  </word>
+  <word>
+    <term>yoğurt</term>
+    <hint>sütün mayalanmasıyla elde edilen, fermente bir süt ürünü</hint>
+  </word>
+  <word>
+    <term>beyaz eşya</term>
+    <hint>ev aletleri, genellikle beyaz renkli</hint>
+  </word>
+  <word>
+    <term>çamaşır makinesi</term>
+    <hint>çamaşırların yıkanması için kullanılan ev aleti</hint>
+  </word>
+  <word>
+    <term>bulaşık makinesi</term>
+    <hint>bulaşıkların yıkanması için kullanılan ev aleti</hint>
+  </word>
+  <word>
+    <term>fırın</term>
+    <hint>pişirme işlemleri için kullanılan ev aleti</hint>
+  </word>
+  <word>
+    <term>ütü</term>
+    <hint>kırışık giysileri düzleştirmek için kullanılan ev aleti</hint>
+  </word>
+  <word>
+    <term>halı</term>
+    <hint>yere serilerek kullanılan, genellikle yumuşakdokulu zemin kaplaması</hint>
+  </word>
+  <word>
+    <term>perde</term>
+    <hint>pencereleri örtmek veya ayırmak için kullanılan kumaş veya benzeri malzemeden yapılmış parça</hint>
+  </word>
+  <word>
+    <term>mobilya</term>
+    <hint>evde kullanılan eşyaların genel adı, koltuk, masa, sandalye gibi</hint>
+  </word>
+  <word>
+    <term>koltuk</term>
+    <hint>oturmak için kullanılan, genellikle sırtı ve kolçakları olan mobilya parçası</hint>
+  </word>
+  <word>
+    <term>masa</term>
+    <hint>genellikle yemek yemek veya çalışmak için kullanılan mobilya parçası</hint>
+  </word>
+  <word>
+    <term>sandalye</term>
+    <hint>oturmak için kullanılan mobilya parçası, genellikle sırtı olmayan</hint>
+  </word>
+  <word>
+    <term>yatak</term>
+    <hint>uyumak için kullanılan mobilya parçası</hint>
+  </word>
+  <word>
+    <term>halı saha</term>
+    <hint>futbol maçlarının oynandığı kapalı veya açık spor alanı</hint>
+  </word>
+  <word>
+    <term>plaj</term>
+    <hint>deniz kenarındaki kumlu veya çakıllı alan</hint>
+  </word>
+  <word>
+    <term>otel</term>
+    <hint>konaklamak için geçici olarak kullanılan bina veya kompleks</hint>
+  </word>
+  <word>
+    <term>restoran</term>
+    <hint>yemek servisi yapılan ticari işletme</hint>
+  </word>
+  <word>
+    <term>market</term>
+    <hint>gıda ve diğer tüketim malzemelerinin satıldığı büyük perakende mağazası</hint>
+  </word>
+  <word>
+    <term>eczane</term>
+    <hint>ilaçların satıldığı yer, aynı zamanda reçeteli ilaçların verildiği yer</hint>
+  </word>
+  <word>
+    <term>hastane</term>
+    <hint>tedavi amaçlı kullanılan bina veya kompleks</hint>
+  </word>
+  <word>
+    <term>sinema</term>
+    <hint>filmlerin gösterildiği yer</hint>
+  </word>
+  <word>
+    <term>tiyatro</term>
+    <hint>oyunların sahnelendiği yer</hint>
+  </word>
+  <word>
+    <term>müze</term>
+    <hint>tarihi veya sanatsal eserlerin sergilendiği yer</hint>
+  </word>
+  <word>
+    <term>konser</term>
+    <hint>müzik performanslarının yapıldığı etkinlik</hint>
+  </word>
+  <word>
+    <term>festival</term>
+    <hint>birkaç gün boyuncasüren genellikle eğlence veya kültür amaçlı etkinlik</hint>
+  </word>
+  <word>
+    <term>ev</term>
+    <hint>insanların yaşadığı konut</hint>
+  </word>
+  <word>
+    <term>dükkan</term>
+    <hint>ticari amaçlı kullanılan küçük bina veya mağaza</hint>
+  </word>
+  <word>
+    <term>ofis</term>
+    <hint>iş amaçlı kullanılan bina veya odalar</hint>
+  </word>
+  <word>
+    <term>araba</term>
+    <hint>motorlu taşıt, özellikle binek arabalar</hint>
+  </word>
+  <word>
+    <term>bisiklet</term>
+    <hint>insan gücü ile çalışan taşıt aracı</hint>
+  </word>
+  <word>
+    <term>motorsiklet</term>
+    <hint>iki tekerlekli motorlu taşıt aracı</hint>
+  </word>
+  <word>
+    <term>otobüs</term>
+    <hint>genellikle çok sayıda insanı taşıyan yolcu taşıtı</hint>
+  </word>
+  <word>
+    <term>taksi</term>
+    <hint>özel olarak kiralanan taşıt, genellikle kısa mesafelerde kullanılır</hint>
+  </word>
+  <word>
+    <term>uçak</term>
+    <hint>havada seyahat etmek için kullanılan motorlu taşıt aracı</hint>
+  </word>
+  <word>
+    <term>tren</term>
+    <hint>raylar üzerinde hareket eden yolcu veya yük taşıtı</hint>
+  </word>
+  <word>
+    <term>deniz taşıtı</term>
+    <hint>denizde seyahat etmek için kullanılan taşıt aracı</hint>
+  </word>
+  <word>
+    <term>bavul</term>
+    <hint>seyahat etmek için kullanılan çanta veya valiz</hint>
+  </word>
+  <word>
+    <term>pasaport</term>
+    <hint>yurt dışına seyahat etmek için gereken kimlik belgesi</hint>
+  </word>
+  <word>
+    <term>oturma odası</term>
+    <hint>evde dinlenmek veya misafirlerin ağırlanması için kullanılan oda</hint>
+  </word>
+  <word>
+    <term>yemek odası</term>
+    <hint>evde yemek yemek için kullanılan oda</hint>
+  </word>
+  <word>
+    <term>mutfak</term>
+    <hint>yemek pişirme ve hazırlama işleri için kullanılan oda veya bölme</hint>
+  </word>
+  <word>
+    <term>banyo</term>
+    <hint>kişisel temizlik işleri için kullanılan oda veya bölme</hint>
+  </word>
+  <word>
+    <term>tuvalet</term>
+    <hint>insanların ihtiyaçlarını gidermek için kullanılanodacık veya bölme</hint>
+  </word>
+  <word>
+    <term>yatak odası</term>
+    <hint>uyku için kullanılan oda</hint>
+  </word>
+  <word>
+    <term>evcil hayvan</term>
+    <hint>evde beslenen, genellikle insanlarla birlikte yaşayan hayvan</hint>
+  </word>
+  <word>
+    <term>köpek</term>
+    <hint>evcil hayvan olarak beslenen, sadık ve koruyucu bir tür hayvan</hint>
+  </word>
+  <word>
+    <term>kedi</term>
+    <hint>evcil hayvan olarak beslenen, genellikle sevimli ve oyunsever bir tür hayvan</hint>
+  </word>
+  <word>
+    <term>kuş</term>
+    <hint>genellikle evde beslenen, ötüşleriyle dikkat çeken türden bir hayvan</hint>
+  </word>
+  <word>
+    <term>balık</term>
+    <hint>su ortamında yaşayan, genellikle evde akvaryumda beslenen bir tür hayvan</hint>
+  </word>
+  <word>
+    <term>çiçek</term>
+    <hint>görsel olarak hoş bir görünüme sahip olan bitkilerin çiçek açan kısmı</hint>
+  </word>
+  <word>
+    <term>ağaç</term>
+    <hint>yüksek boyutta, gövdesi odunlu ve dalları yapraklı bitki</hint>
+  </word>
+  <word>
+    <term>orman</term>
+    <hint>çok sayıda ağaç ve bitki türünden oluşan doğal bir alan</hint>
+  </word>
+  <word>
+    <term>park</term>
+    <hint>genellikle şehir içindeki yeşil alanlar, dinlenmek veya yürüyüş yapmak için kullanılır</hint>
+  </word>
+  <word>
+    <term>plaj</term>
+    <hint>deniz, göl veya nehir kıyısında, kumlu bir sahil şeridi</hint>
+  </word>
+  <word>
+    <term>dağ</term>
+    <hint>yüksek ve dik yamaçlı doğal bir oluşum, tırmanış ve doğa yürüyüşü için kullanılır</hint>
+  </word>
+  <word>
+    <term>göl</term>
+    <hint>su kütlesi, genellikle çevresindeki alanlar turizm amaçlı kullanılır</hint>
+  </word>
+  <word>
+    <term>nehir</term>
+    <hint>sürekli akan su kütleleri, genellikle doğal güzellikleriyle turistlerin ilgisini çeker</hint>
+  </word>
+  <word>
+    <term>deniz</term>
+    <hint>büyük tuzlu su kütleleri, yüzme, sörf, balıkçılık ve diğer su aktiviteleri için kullanılır</hint>
+  </word>
+  <word>
+    <term>şehir</term>
+    <hint>insanların yoğun olarak yaşadığı, genellikle büyük bir yerleşim alanı</hint>
+  </word>
+  <word>
+    <term>köy</term>
+    <hint>küçük bir yerleşim yeri, genellikle şehirlerden daha az nüfusa sahip</hint>
+  </word>
+  <word>
+    <term>market</term>
+    <hint>gıda, giyim ve ev eşyaları gibi ürünlerin satıldığı, büyük bir perakende mağazası</hint>
+  </word>
+  <word>
+    <term>restoran</term>
+    <hint>yemek servisi yapılan bir işletme, genellikle oturma alanları da bulunur</hint>
+  </word>
+  <word>
+    <term>kafeterya</term>
+    <hint>küçük yiyecek ve içeceklerin satıldığı bir tür kafe</hint>
+  </word>
+  <word>
+    <term>otobüs</term>
+    <hint>yüksek kapasiteli toplu taşıma aracı, genellikle şehirler arasında kullanılır</hint>
+  </word>
+  <word>
+    <term>taksi</term>
+    <hint>bireysel yolcu taşımacılığı hizmeti veren bir araç, belirli bir ücret karşılığında hizmet verir</hint>
+  </word>
+  <word>
+    <term>uçak</term>
+    <hint>hava taşımacılığı için kullanılan bir araç, genellikle uzun mesafelerde kullanılır</hint>
+  </word>
+  <word>
+    <term>tren</term>
+    <hint>demiryolu taşımacılığı için kullanılan bir araç, genellikle şehirler arasında kullanılır</hint>
+  </word>
+  <word>
+    <term>liman</term>
+    <hint>denizcilik için kullanılan bir tesis, gemilerin yanaşması ve yükleme boşaltma yapması için kullanılır</hint>
+  </word>
+  <word>
+    <term>havaalanı</term>
+    <hint>uçakların kalkış ve iniş yapması için tasarlanmış bir tesis</hint>
+  </word>
+  <word>
+    <term>okul</term>
+    <hint>eğitim amaçlı kullanılan bir yapı, öğrencilerin belirli bir müfredatı takip etmesi gereklidir</hint>
+  </word>
+  <word>
+    <term>üniversite</term>
+    <hint>lisans veya lisansüstü eğitim veren bir kurum, çeşitli bölümleri ve fakülteleri bulunur</hint>
+  </word>
+  <word>
+    <term>hastane</term>
+    <hint>hasta tedavisi amaçlı kullanılan bir tesis, doktorlar ve hemşireler tarafından yönetilir</hint>
+  </word>
+  <word>
+    <term>banka</term>
+    <hint>para saklama, kredi verme ve diğer finansal işlemler için kullanılan bir kurum</hint>
+  </word>
+  <word>
+    <term>spor salonu</term>
+    <hint>spor aktivitelerinin yapılabildiği kapalı bir alan, genellikle ağırlık çalışması, koşu bandı ve diğer spor ekipmanları bulunur</hint>
+  </word>
+  <word>
+    <term>telefon</term>
+    <hint>iletişim cihazı</hint>
+  </word>
+</words>
