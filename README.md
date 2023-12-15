@@ -1,6 +1,6 @@
 # HangMan Web game
 ## About Project 
-Hangman Web application game using ASP.net web application
+Hangman Web application game using ASP.net web application with the turkish word.
 
 ## Technologies utilised
 <div id="badges">
